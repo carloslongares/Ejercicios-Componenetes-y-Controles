@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/controlesBasicos"
+        android:title="Controles Basicos"
+        android:icon="@android:drawable/ic_menu_agenda"
+         android:showAsAction="never"/>
+
+    <item
+        android:id="@+id/controlesAvanzados"
+        android:title="Controles Avanzados"
+        android:icon="@android:drawable/ic_menu_agenda"
+         android:showAsAction="never"/>
+   
+
+    <item
+        android:id="@+id/acercaDe"
+        android:title="Acerca de ..."
+        android:icon="@android:drawable/ic_menu_preferences"
+         android:showAsAction="never"/>
+    
+</menu>
